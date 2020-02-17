@@ -1,4 +1,4 @@
-# Progetto_C-_RPG_testuale
+# Progetto_C_Sharp_RPG_testuale
 Progetto in linguaggio C# che permette di giocare a un breve gioco di ruolo testuale (in lingua Inglese)
 
 Another Nameless Hero è un gioco di tipo Action RPG a linea di comando. Si tratta di 
